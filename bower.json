@@ -1,0 +1,25 @@
+{
+  "name": "samFactory",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "mel0s <oswaldosanchezmelos@gmail.com>"
+  ],
+  "description": "\"Control de formularios\"",
+  "keywords": [
+    "s"
+  ],
+  "dependencies": {
+	"prueba":"https://github.com/mel0s/samFactory.git"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
